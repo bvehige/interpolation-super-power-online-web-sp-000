@@ -1,5 +1,4 @@
 # Write your #display_rainbow method here
-require_relative './display_rainbow_spec.rb'
 
 def display_rainbow 
   
@@ -10,6 +9,7 @@ def display_rainbow
   prints "B: #{colors[4]},"
   prints "I: #{colors[5]},"
   prints "V: #{colors[6]}"
+  
   
 end
 
