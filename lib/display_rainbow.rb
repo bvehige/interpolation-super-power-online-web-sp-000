@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-require_relative /display_rainbow_spec.rb"
+require_relative './display_rainbow_spec.rb'
 
 def display_rainbow 
   
